@@ -7,5 +7,7 @@ public class Lab001 {
         System.out.println("Omotolani");
         System.out.println("Omotolani");
         System.out.println("Omotolanii");
+        System.out.println("Omotolanii");
+
     }
 }

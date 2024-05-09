@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="">
+    <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="testing message new">
       <change beforePath="$PROJECT_DIR$/src/basics_01/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_01/Lab001.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -233,7 +233,31 @@
       <option name="project" value="LOCAL" />
       <updated>1712866697742</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="my new comment">
+      <option name="closed" value="true" />
+      <created>1715227483972</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227483972</updated>
+    </task>
+    <task id="LOCAL-00003" summary="testing message">
+      <option name="closed" value="true" />
+      <created>1715227567275</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227567275</updated>
+    </task>
+    <task id="LOCAL-00004" summary="testing message new">
+      <option name="closed" value="true" />
+      <created>1715227632868</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227632868</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -250,7 +274,10 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="co" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="my new comment" />
+    <MESSAGE value="testing message" />
+    <MESSAGE value="testing message new" />
+    <option name="LAST_COMMIT_MESSAGE" value="testing message new" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
