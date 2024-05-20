@@ -4,8 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="testing message new">
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab001.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_01/Lab001.java" afterDir="false" />
+    <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="Code Done">
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab073.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab074.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab075.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab076.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab077.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab078.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab079.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab080.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab081.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab082.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab083.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab084.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab085.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab086.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab69.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab068.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +128,25 @@
     "Application.Lab064.executor": "Run",
     "Application.Lab065.executor": "Run",
     "Application.Lab067.executor": "Run",
+    "Application.Lab068.executor": "Run",
+    "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Debug",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab078.executor": "Debug",
+    "Application.Lab079.executor": "Debug",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab087.executor": "Debug",
     "Application.Lab30.executor": "Run",
+    "Application.Lab69.executor": "Run",
+    "Application.Lab81.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -113,7 +155,7 @@
     "project.structure.last.edited": "SDKs",
     "project.structure.proportion": "0.2539432",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propCompiler"
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -125,13 +167,13 @@
       <recent name="src.basics_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab067">
-    <configuration name="Lab062" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab062" />
+  <component name="RunManager" selected="Application.Lab087">
+    <configuration name="Lab082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab082" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04_17Dec.*" />
+          <option name="PATTERN" value="src.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +181,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab063" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab063" />
+    <configuration name="Lab083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab083" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04_17Dec.*" />
+          <option name="PATTERN" value="src.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -152,12 +194,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab064" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab064" />
+    <configuration name="Lab084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab084" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04_17Dec.*" />
+          <option name="PATTERN" value="src.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -165,12 +207,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab065" />
+    <configuration name="Lab085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab085" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04_17Dec.*" />
+          <option name="PATTERN" value="src.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -178,12 +220,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab067" />
+    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab087" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="src.basics_04_17Dec.*" />
+          <option name="PATTERN" value="src.basics_05_23Dec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -192,19 +234,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab067" />
-      <item itemvalue="Application.Lab063" />
-      <item itemvalue="Application.Lab064" />
-      <item itemvalue="Application.Lab065" />
-      <item itemvalue="Application.Lab062" />
+      <item itemvalue="Application.Lab082" />
+      <item itemvalue="Application.Lab083" />
+      <item itemvalue="Application.Lab084" />
+      <item itemvalue="Application.Lab085" />
+      <item itemvalue="Application.Lab087" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab067" />
-        <item itemvalue="Application.Lab065" />
-        <item itemvalue="Application.Lab064" />
-        <item itemvalue="Application.Lab063" />
-        <item itemvalue="Application.Lab062" />
+        <item itemvalue="Application.Lab087" />
+        <item itemvalue="Application.Lab085" />
+        <item itemvalue="Application.Lab084" />
+        <item itemvalue="Application.Lab083" />
+        <item itemvalue="Application.Lab082" />
       </list>
     </recent_temporary>
   </component>
@@ -257,7 +299,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715227632868</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Code Done">
+      <option name="closed" value="true" />
+      <created>1715227794616</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227794616</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -277,7 +327,8 @@
     <MESSAGE value="my new comment" />
     <MESSAGE value="testing message" />
     <MESSAGE value="testing message new" />
-    <option name="LAST_COMMIT_MESSAGE" value="testing message new" />
+    <MESSAGE value="Code Done" />
+    <option name="LAST_COMMIT_MESSAGE" value="Code Done" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -306,6 +357,21 @@
           <url>file://$PROJECT_DIR$/src/basics_04_17Dec/Lab052.java</url>
           <line>46</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab072.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
