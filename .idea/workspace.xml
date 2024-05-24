@@ -5,31 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="Code Done">
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab072.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab073.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab095.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -144,6 +129,13 @@
     "Application.Lab084.executor": "Run",
     "Application.Lab085.executor": "Run",
     "Application.Lab087.executor": "Debug",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Run",
+    "Application.Lab095.executor": "Run",
     "Application.Lab30.executor": "Run",
     "Application.Lab69.executor": "Run",
     "Application.Lab81.executor": "Run",
@@ -167,9 +159,9 @@
       <recent name="src.basics_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab087">
-    <configuration name="Lab082" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab082" />
+  <component name="RunManager">
+    <configuration name="Lab089" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab089" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -181,8 +173,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab083" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab083" />
+    <configuration name="Lab090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab090" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -194,8 +186,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab084" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab084" />
+    <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab091" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -207,8 +199,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab085" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab085" />
+    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab092" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -220,8 +212,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab087" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab087" />
+    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab094" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -234,19 +226,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab082" />
-      <item itemvalue="Application.Lab083" />
-      <item itemvalue="Application.Lab084" />
-      <item itemvalue="Application.Lab085" />
-      <item itemvalue="Application.Lab087" />
+      <item itemvalue="Application.Lab089" />
+      <item itemvalue="Application.Lab090" />
+      <item itemvalue="Application.Lab091" />
+      <item itemvalue="Application.Lab092" />
+      <item itemvalue="Application.Lab094" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab087" />
-        <item itemvalue="Application.Lab085" />
-        <item itemvalue="Application.Lab084" />
-        <item itemvalue="Application.Lab083" />
-        <item itemvalue="Application.Lab082" />
+        <item itemvalue="Application.Lab094" />
+        <item itemvalue="Application.Lab092" />
+        <item itemvalue="Application.Lab091" />
+        <item itemvalue="Application.Lab090" />
+        <item itemvalue="Application.Lab089" />
       </list>
     </recent_temporary>
   </component>

@@ -5,14 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="Code Done">
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab070.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab071.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab69.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab089.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab090.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab091.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab092.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab093.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab094.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Learning/src/basics_01/Lab001.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_01/Lab068.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab068.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab088.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,8 +113,29 @@
     "Application.Lab067.executor": "Run",
     "Application.Lab068.executor": "Run",
     "Application.Lab071.executor": "Run",
+    "Application.Lab072.executor": "Debug",
+    "Application.Lab073.executor": "Run",
+    "Application.Lab074.executor": "Run",
+    "Application.Lab075.executor": "Run",
+    "Application.Lab076.executor": "Run",
+    "Application.Lab077.executor": "Run",
+    "Application.Lab078.executor": "Debug",
+    "Application.Lab079.executor": "Debug",
+    "Application.Lab080.executor": "Run",
+    "Application.Lab082.executor": "Run",
+    "Application.Lab083.executor": "Run",
+    "Application.Lab084.executor": "Run",
+    "Application.Lab085.executor": "Run",
+    "Application.Lab087.executor": "Debug",
+    "Application.Lab089.executor": "Run",
+    "Application.Lab090.executor": "Run",
+    "Application.Lab091.executor": "Run",
+    "Application.Lab092.executor": "Run",
+    "Application.Lab093.executor": "Run",
+    "Application.Lab094.executor": "Debug",
     "Application.Lab30.executor": "Run",
     "Application.Lab69.executor": "Run",
+    "Application.Lab81.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -135,9 +156,9 @@
       <recent name="src.basics_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab071">
-    <configuration name="Lab065" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab065" />
+  <component name="RunManager" selected="Application.Lab094">
+    <configuration name="Lab089" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab089" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -149,8 +170,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab067" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_04_17Dec.Lab067" />
+    <configuration name="Lab090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab090" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -162,8 +183,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab068" />
+    <configuration name="Lab091" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab091" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -175,8 +196,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab071" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab071" />
+    <configuration name="Lab092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab092" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -188,8 +209,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab69" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab69" />
+    <configuration name="Lab094" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab094" />
       <module name="Learning" />
       <extension name="coverage">
         <pattern>
@@ -202,19 +223,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Lab071" />
-      <item itemvalue="Application.Lab068" />
-      <item itemvalue="Application.Lab69" />
-      <item itemvalue="Application.Lab067" />
-      <item itemvalue="Application.Lab065" />
+      <item itemvalue="Application.Lab089" />
+      <item itemvalue="Application.Lab090" />
+      <item itemvalue="Application.Lab091" />
+      <item itemvalue="Application.Lab092" />
+      <item itemvalue="Application.Lab094" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab071" />
-        <item itemvalue="Application.Lab69" />
-        <item itemvalue="Application.Lab068" />
-        <item itemvalue="Application.Lab067" />
-        <item itemvalue="Application.Lab065" />
+        <item itemvalue="Application.Lab094" />
+        <item itemvalue="Application.Lab092" />
+        <item itemvalue="Application.Lab091" />
+        <item itemvalue="Application.Lab090" />
+        <item itemvalue="Application.Lab089" />
       </list>
     </recent_temporary>
   </component>
@@ -325,6 +346,21 @@
           <url>file://$PROJECT_DIR$/src/basics_04_17Dec/Lab052.java</url>
           <line>46</line>
           <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab072.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/basics_05_23Dec/Lab087.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="61" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
