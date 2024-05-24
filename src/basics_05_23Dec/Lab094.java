@@ -12,36 +12,35 @@ public class Lab094 {
         //3! -> 3*2*1
         //5! -> 5*4*3*2*1 = 120
         //user_input = 5
-        //print -> 5
+        //print -> 120
 
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         int number = sc.nextInt();
 
-        long fact = 1;
+        long fact = 1; //if you are multiplying, you start from 1
 //      5 -> i = 1 to 5 -> fact = fact * i, i++
-//      A -> int i = 1;
-//      B -> i <=number or i < =5
-//      C -> i++
-//      D -> fact = fact+i
+//      A -> int i = 1;                 (Initialization)
+//      B -> i <=number or i < =5       (Condition)
+//      C -> i++                        (Increment)
+//      D -> fact = fact+i              (Execution)
 
-//        int i=1;
-//        while(i<=number) {
+//        int i = 1;
+//        while (i <= number) {
 //            fact = fact * i;
 //            i++;
-//
-//            System.out.println("Fact -> " + fact);
+//        }
+//        System.out.println("Fact -> " + fact);
 //            sc.close();
-//
-//
-            for (int j = 1; j <= number ; j++) {
-                fact = fact * j;
 
-                System.out.println("Fact -> "+ fact);
-
-                sc.close();
-
-            }
+// You can do same using for loop
+        for (int j = 1; j <= number ; j++) {
+            fact = fact*j;
         }
+        System.out.println("Fact -> " + fact);
+        sc.close();
+
+
     }
+}
 

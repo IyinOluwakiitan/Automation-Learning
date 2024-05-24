@@ -9,8 +9,8 @@ public class Lab095 {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter the number");
         int number = sc.nextInt();
-        long fact = 1;
-//        5 -> i = 1 to 5 -> fact = fact * i, i++
+        long fact = 0; //if you are using sum start with 0
+//      5 -> i = 1 to 5 -> fact = fact * i, i++
 //      A -> int i = 1;
 //      B -> i <=number or i < =5
 //      C -> i++
