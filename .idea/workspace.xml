@@ -5,9 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3e5769f4-c316-4c0c-b5cf-2d80fbd781cb" name="Changes" comment="Code Done">
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab097.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab097b.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_05_23Dec/Lab094.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab094.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/basics_05_23Dec/Lab095.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab095.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/basics_05_23Dec/Lab096.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/basics_05_23Dec/Lab096.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -129,6 +130,8 @@
     "Application.Lab093.executor": "Run",
     "Application.Lab094.executor": "Debug",
     "Application.Lab095.executor": "Run",
+    "Application.Lab096.executor": "Run",
+    "Application.Lab097.executor": "Run",
     "Application.Lab30.executor": "Run",
     "Application.Lab69.executor": "Run",
     "Application.Lab81.executor": "Run",
@@ -152,7 +155,7 @@
       <recent name="src.basics_03" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Lab095">
+  <component name="RunManager">
     <configuration name="Lab090" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="src.basics_05_23Dec.Lab090" />
       <module name="Learning" />
